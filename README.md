@@ -1,6 +1,7 @@
 <p align="center">
   <img src="sentinelops-banner.png" width="100%" alt="SentinelOps Cybersecurity Command Centre">
 </p>
+
 # 🛡️ SentinelOps
 ## The Self-Learning AI Cybersecurity Command Centre
 
